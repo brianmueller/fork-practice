@@ -1,3 +1,5 @@
+Click [here](#htmlcode) to scroll to the HTML code snippet
+
 # Directions:
 1. _**Read all directions before following any of them.**_
 2. Fork this repo.
@@ -37,6 +39,7 @@ _Make me italicized_
 `Turn this entire line of text into code`
 
 Turn the entire block of code below into a code snippet with HTML syntax highlighting (note: the cloud9 preview will not show the syntax highlighting).
+<a name="htmlcode"></a>
 ```html
 <ol>
     <li>Item 1</li>
