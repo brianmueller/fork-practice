@@ -10,8 +10,12 @@ Click [here](#htmlcode) to scroll to the HTML code snippet
 
 ---
 
-# Make me a heading size 1
-### Make me a heading size 3
+# heading size 1
+## heading size 2
+### heading size 3
+#### heading size 4
+##### heading size 5
+######heading size 6
 
 Put a line BELOW me!
 
